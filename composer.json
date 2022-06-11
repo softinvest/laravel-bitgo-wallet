@@ -1,5 +1,5 @@
 {
-    "name": "khomerikik/laravel-bitgo-wallet",
+    "name": "softinvest/laravel-bitgo-wallet",
     "description": "Bitgo blockchain service integration for laravel",
     "keywords": [
         "bitgo",
@@ -8,7 +8,7 @@
         "khomeriki",
         "laravel"
     ],
-    "homepage": "https://github.com/KhomerikiK/laravel-bitgo-wallet",
+    "homepage": "https://github.com/softinvest/laravel-bitgo-wallet",
     "license": "MIT",
     "authors": [
         {
