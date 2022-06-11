@@ -14,7 +14,7 @@
 You can install the package via composer:
 
 ```bash
-composer require khomerikik/laravel-bitgo-wallet
+composer require softinvest/laravel-bitgo-wallet
 ```
 
 You can publish the config file with:
